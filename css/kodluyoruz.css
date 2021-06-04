@@ -1,0 +1,39 @@
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+h1 {
+    color:red;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(201, 95, 201);
+    text-align: center;
+}
+
+h3 {
+    color:rgb(155, 170, 68);
+    text-align: left;
+}
+p {
+    font-size: 15px;
+}
+
+#first-article {
+    font-size: 40px
+}
+.text-red {
+    color: red;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
